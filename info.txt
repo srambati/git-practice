@@ -1,1 +1,4 @@
 
+This is change from developer2 in info.txt
+
+This is change from developer2 2nd commit
