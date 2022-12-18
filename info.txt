@@ -4,3 +4,5 @@ This is change from developer2 in info.txt
 This is change from developer2 2nd commit
 
 This is change from developer2 3rd commit
+
+This is change from developer1 3rd commit
