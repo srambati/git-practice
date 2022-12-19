@@ -1,6 +1,3 @@
 Lucas merge 1st commit
 Lucas merge 2nd commit
 Lucas merge 3rd commit
-Srinivas merge 1st commit
-Srinivas merge 2nd commit
-Srinivas merge 3rd commit
